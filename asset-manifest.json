@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/virtualodc-frontend/static/css/main.687fa369.chunk.css",
+    "main.js": "/virtualodc-frontend/static/js/main.21114816.chunk.js",
+    "main.js.map": "/virtualodc-frontend/static/js/main.21114816.chunk.js.map",
+    "runtime-main.js": "/virtualodc-frontend/static/js/runtime-main.93139208.js",
+    "runtime-main.js.map": "/virtualodc-frontend/static/js/runtime-main.93139208.js.map",
+    "static/js/2.39e56d48.chunk.js": "/virtualodc-frontend/static/js/2.39e56d48.chunk.js",
+    "static/js/2.39e56d48.chunk.js.map": "/virtualodc-frontend/static/js/2.39e56d48.chunk.js.map",
+    "static/js/3.30ad2ccd.chunk.js": "/virtualodc-frontend/static/js/3.30ad2ccd.chunk.js",
+    "static/js/3.30ad2ccd.chunk.js.map": "/virtualodc-frontend/static/js/3.30ad2ccd.chunk.js.map",
+    "index.html": "/virtualodc-frontend/index.html",
+    "static/css/main.687fa369.chunk.css.map": "/virtualodc-frontend/static/css/main.687fa369.chunk.css.map",
+    "static/js/2.39e56d48.chunk.js.LICENSE.txt": "/virtualodc-frontend/static/js/2.39e56d48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93139208.js",
+    "static/js/2.39e56d48.chunk.js",
+    "static/css/main.687fa369.chunk.css",
+    "static/js/main.21114816.chunk.js"
+  ]
+}
